@@ -1,8 +1,7 @@
 <h1>Molla Furniture 🛋️</h1>
+
+<img src="https://github.com/hasunB/Molla-Furniture/blob/main/src/image-removebg.png"/>
 <p>An e-commerce application for furniture and decor shopping, developed using <strong>Java</strong>, <strong>Hibernate</strong>, <strong>MySQL</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</p>
-
-<img src="https://github.com/hasunB/Molla-Furniture/blob/main/src/image-removebg.png" width=""600/>
-
 <p align="left">
     <a href="https://shields.io/community#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
