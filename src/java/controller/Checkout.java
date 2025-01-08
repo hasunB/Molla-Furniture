@@ -238,7 +238,7 @@ public class Checkout extends HttpServlet {
             String merchant_id = "1222069";
             String formatedAmount = new DecimalFormat("0.00").format(amount);
             String currency = "LKR";
-            String merchantSecret = "MjY4ODM5MzQ4MDM4OTE5MjYxMzAyMTI4OTA1MTExMTQzNDY4NTQ2";
+            String merchantSecret = "";
             String merchantSecretM5Hash = PayHere.generateMD5(merchantSecret);
 
             JsonObject payhere = new JsonObject();
